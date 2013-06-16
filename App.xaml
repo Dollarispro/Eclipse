@@ -6,7 +6,7 @@
             <!--Style-->
             <ResourceDictionary>
                 <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Theme1"/>
+                <ResourceDictionary Source="Theme1.xaml"/>
                 <ResourceDictionary Source="Theme2.xaml"/>
                 <ResourceDictionary Source="Theme3.xaml"/>
             </ResourceDictionary.MergedDictionaries>
