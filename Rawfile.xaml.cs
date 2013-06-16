@@ -38,9 +38,9 @@ namespace Bo2All
         public class gameAddresses
         {
             public static uint
-            locString = 0x82387120,
-            material = 0x82387340,
-            elem = 0x82328E60,
+            locString = RemoveCauseOfLeech,
+            material = RemoveCauseOfLeech,
+            elem = RemoveCauseOfLeech,
             type = 0x6D,
             xOffset = 0x0,
             yOffset = 0x4,
